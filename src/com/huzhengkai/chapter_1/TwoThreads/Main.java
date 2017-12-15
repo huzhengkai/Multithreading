@@ -1,4 +1,4 @@
-package com.huzhengkai.one;
+package com.huzhengkai.chapter_1.TwoThreads;
 
 /**
  * Created by root on 2017/12/11.

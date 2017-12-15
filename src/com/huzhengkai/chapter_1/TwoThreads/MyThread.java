@@ -1,4 +1,4 @@
-package com.huzhengkai.one;
+package com.huzhengkai.chapter_1.TwoThreads;
 
 public class MyThread extends Thread
 {
